@@ -61,8 +61,8 @@ La structure du projet est organisée comme suit :
 1. Clonez le dépôt :
 
    ```bash
-   git clone <URL-DU-DÉPÔT>
-   cd <NOM-DU-RÉPERTOIRE>
+   git clone <(https://github.com/mezzarAbdelaziz/MOUNIBB/blob/main)>
+   cd <Mounibb>
    ```
 
 2. Installez les dépendances requises :
